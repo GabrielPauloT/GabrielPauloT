@@ -67,7 +67,7 @@ Sou um **Desenvolvedor Full-Stack** apaixonado por transformar problemas complex
 ### 🛒 Plataforma B2B de Vendas
 **App para varejo e atacado** onde empresas compram de fornecedores, gerenciam inventário e criam listas de compra personalizadas para clientes.
 
-`React.js` `React Native` `Node.js` `PostgreSQL`
+`React.js` `React Native` `Java` `PostgreSQL` `Mongo`
 
 > 📈 +40% eficiência operacional
 
@@ -77,7 +77,7 @@ Sou um **Desenvolvedor Full-Stack** apaixonado por transformar problemas complex
 ### 🧠 Plataforma de Psicologia Online
 **App de saúde mental** que conecta usuários a psicólogos via chat em tempo real e agendamento de consultas. Inspirado em programas de prevenção ao suicídio.
 
-`React Native` `Node.js` `MongoDB`
+`React Native` `Node.js` `PostgreSQL`
 
 > 💚 Centenas de usuários atendidos
 
@@ -90,7 +90,7 @@ Sou um **Desenvolvedor Full-Stack** apaixonado por transformar problemas complex
 ### 🏍️ Gestão de Oficinas de Moto
 **Sistema ERP completo** para oficinas: controle de OS, estoque de peças, rastreamento de mecânicos e cálculo automático de custos por serviço.
 
-`React.js` `Node.js` `PostgreSQL` `Java`
+`Dart` `Node.js` `PostgreSQL`
 
 > ⚡ -50% tempo de processamento de OS
 
@@ -117,7 +117,7 @@ Sou um **Desenvolvedor Full-Stack** apaixonado por transformar problemas complex
 ### 👥 Gestão de RH — Sinarco
 **Sistema de RH** para controle de VR/VT por funcionário, cálculo automático de recargas, gestão de férias, faltas e relatórios de gastos.
 
-`React.js` `Node.js` `PostgreSQL` `Java`
+`React.js` `Node.js` `PostgreSQL`
 
 > ⏱️ -20h/mês em processamento manual
 
@@ -127,7 +127,7 @@ Sou um **Desenvolvedor Full-Stack** apaixonado por transformar problemas complex
 ### 🤖 Chatbots WhatsApp
 **Chatbots inteligentes** integrados ao WhatsApp para automação de processos: secretárias virtuais, gestão de tarefas e suporte automatizado.
 
-`Node.js` `MongoDB` `WhatsApp API`
+`Node.js` `MongoDB` `WhatsApp API` `i18n` `PostgreSQL`
 
 > 💬 -80% tempo de resposta ao cliente
 
@@ -140,7 +140,7 @@ Sou um **Desenvolvedor Full-Stack** apaixonado por transformar problemas complex
 ### 📨 Mensageria em Massa — WhatsApp
 **Sistema de disparo em massa** no WhatsApp a partir de planilhas, bancos de dados ou leads manuais. Agendamento, personalização e rastreamento de entrega.
 
-`Node.js` `MongoDB` `PostgreSQL` `WhatsApp API`
+`Java` `MongoDB` `PostgreSQL` `WhatsApp API` `React.js`
 
 > 🚀 +300% alcance de campanhas
 
