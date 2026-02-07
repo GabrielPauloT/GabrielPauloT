@@ -25,7 +25,7 @@
 ```yaml
 Nome:        Gabriel Paulo
 Idade:       25 anos
-experiência: 4 anos
+Experiência: 4 anos
 Formação:    Bacharel em Sistemas de Informação - UNIPAM
 Localização: Brasil
 Foco:        Aplicativos Mobile, Sistemas de Gestão, Automação & Chatbots
