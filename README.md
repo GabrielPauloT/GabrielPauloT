@@ -98,7 +98,7 @@ Sou um **Desenvolvedor Full-Stack** apaixonado por transformar problemas complex
 ### 🧠 Plataforma de Psicologia Online
 **App de saúde mental** que conecta usuários a psicólogos via chat em tempo real e agendamento de consultas. Inspirado em programas de prevenção ao suicídio.
 
-`React Native` `Node.js` `PostgreSQL`
+`Dart` `Node.js` `PostgreSQL`
 
 > 💚 Centenas de usuários atendidos
 
@@ -195,7 +195,7 @@ Sou um **Desenvolvedor Full-Stack** apaixonado por transformar problemas complex
 <br/>
 
 <a href="https://github.com/GabrielPauloT">
-  <img src="https://streak-stats.demolab.com/?user=GabrielPauloT&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+  <img src="https://streak-stats.demolab.com?user=GabrielPauloT&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
 </a>
 
 </div>
