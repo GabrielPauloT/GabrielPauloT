@@ -1,6 +1,9 @@
-<div align="center"> <!-- HEADER --> <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=120&section=header" width="100%"/>
+<div align="center">
 
-👋 Olá, eu sou Gabriel Paulo
+<!-- HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=120&section=header" width="100%"/>
+
+# 👋 Olá, eu sou **Gabriel Paulo**
 
 <a href="https://github.com/GabrielPauloT">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=500&height=45&lines=Desenvolvedor+Full-Stack;Mobile+%7C+Web+%7C+Automa%C3%A7%C3%A3o;React+%7C+Node.js+%7C+React+Native;%2B8+Projetos+Entregues" alt="Typing SVG" />
